@@ -1,0 +1,165 @@
+/*NavBar*/
+
+.bc{
+    background-color: #0F1A50;
+    
+}
+
+.tc{
+    color:white;
+    padding:15px 20px;
+    font-size: 18px;
+}
+
+.hv:hover{
+    color:yellow;
+    font-size: 20px;
+}
+
+.navbar{
+    padding:5px;
+    height:100px;
+}
+
+.container-fluid{
+    height: 100px;
+}
+
+.lp{
+    margin-top: 40px;
+    width: 360px;
+   
+}
+
+.ip{
+    width:35px;
+}
+
+.hvv:hover{
+    background-color: black;
+    color:blanchedalmond
+}
+
+/*list*/
+
+table,th,td{
+    border: 2px solid black;
+    margin:0 auto;
+    
+}
+
+
+.publiclist  h1{
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.publiclist p{
+    padding:10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+h2{
+    padding:10px;
+    color:blue;
+}
+
+.tableplist{
+    width:1400px;
+    text-align: center;
+    font-size: 18px;
+    color: black;
+}
+
+.toptable th{
+    background-color: #0F1A50;
+    color:white;
+    height:50px;
+    font-size: 20px;
+}
+.toptable{
+    cursor: pointer;
+}
+
+.toptable th:hover{
+    color:orange;
+}
+
+td{
+    height:50px;
+
+}
+
+.tableplist tr:nth-child(odd){
+    background-color: rgba(80, 78, 78, 0.479);
+}
+
+.secondtable h2{
+    margin-top: 3%;
+}
+
+.lasttable{
+    margin-bottom: 2%;
+}
+
+.star{
+    color: red;
+}
+
+/*footer*/
+
+.regular{
+    margin-top: 8px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.fa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.fim{
+  width:40px;
+  height:40px;
+  margin:1px 15px;
+  float: left;
+}
+
+.social-list{
+  margin-left: 230px;
+}
+
+.af{
+  list-style-type: none;
+  margin-left: 200px;
+}
+.af li{
+  float: left;
+  margin:1px 15px;
+  font-size: 17.5spx;
+}
+.af a{
+  color: blanchedalmond;
+}
+
+.pfd{
+  float: right;
+  margin-right: 70px;
+}
+
+element.style {
+}
+.footer {
+  border-top: 1px solid #e1e1e1;
+  padding: 15px 0;
+  background: #0F1A50;
+  color: #e1e1e1;
+}
+
+.privatefooter{
+    margin-top: 2%;
+}
